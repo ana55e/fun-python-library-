@@ -134,6 +134,8 @@ class superstr:
 
 
 
+#try it use for example d=superstr('string that you want')
+#try it functions for example d.supersommeur()
 
 
 
