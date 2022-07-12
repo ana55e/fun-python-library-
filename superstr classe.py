@@ -40,6 +40,10 @@ class superstr:
         self.value=chr(p)
     def superstrer(self):
         return self.value
+    def sUPPER(self):
+        return Upper(self.value)
+    def sLOWER(self):
+        return lower(self.value)
     def supersommeur(self):
         q=0
         n=input("donner str ou int avec qui sommer , si non entrer 0 : ")
